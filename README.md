@@ -62,15 +62,22 @@ Visualizations (total_orders_by_age_group.png, dishes_by_age_group_heatmap.png, 
 
 
 File Descriptions
+
 Input Files:
 
 UserDetails.csv: Contains user demographics and total orders.
+
 CookingSessions.csv: Details of cooking sessions including timestamps.
+
 OrderDetails.csv: Information on user orders and ratings.
+
+
 Output Files:
 
 Cleaned and merged datasets for further analysis.
+
 CSV files summarizing participation rates, popular dishes, and demographics.
+
 PNG files for visual representations.
 
 
