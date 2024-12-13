@@ -1,0 +1,17 @@
+order_id,user_id,order_date,meal_type,dish_name,order_status,amount_(usd),time_of_day,rating,session_id
+1001,U001,2024-12-01,Dinner,Spaghetti,Completed,15.0,Night,5.0,S001
+1002,U002,2024-12-01,Lunch,Caesar Salad,Completed,10.0,Day,4.0,S002
+1003,U003,2024-12-02,Dinner,Grilled Chicken,Canceled,12.5,Night,4.0,S003
+1004,U001,2024-12-02,Breakfast,Pancakes,Completed,8.0,Morning,4.0,S004
+1005,U004,2024-12-03,Lunch,Caesar Salad,Completed,9.0,Day,4.0,S005
+1006,U002,2024-12-03,Dinner,Spaghetti,Completed,14.0,Night,4.0,S006
+1007,U005,2024-12-04,Dinner,Grilled Chicken,Completed,13.5,Night,4.0,S007
+1008,U003,2024-12-04,Lunch,Veggie Burger,Canceled,11.0,Day,4.0,S008
+1009,U001,2024-12-05,Dinner,Grilled Chicken,Completed,12.0,Night,5.0,S009
+1010,U002,2024-12-05,Breakfast,Oatmeal,Completed,7.0,Morning,4.0,S010
+1011,U003,2024-12-06,Breakfast,Pancakes,Completed,8.5,Morning,4.0,S011
+1012,U004,2024-12-06,Dinner,Spaghetti,Completed,12.5,Night,4.0,S012
+1013,U005,2024-12-07,Lunch,Caesar Salad,Completed,9.0,Day,4.0,S013
+1014,U006,2024-12-07,Dinner,Grilled Chicken,Completed,13.0,Night,5.0,S014
+1015,U007,2024-12-08,Dinner,Spaghetti,Completed,14.0,Night,5.0,S015
+1016,U008,2024-12-08,Lunch,Veggie Burger,Completed,11.0,Day,4.0,S016
